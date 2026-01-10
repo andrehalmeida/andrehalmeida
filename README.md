@@ -2,7 +2,18 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,cpp,java,js,php,docker,git,html,css,r,mysql" />
+  <img src="./GitHub/icons8-c-100.png" width="40" height="40" />
+  <img src="./GitHub/icons8-python-100.png" width="40" height="40" />
+  <img src="./GitHub/icons8-c-96.png" width="40" height="40" />
+  <img src="./GitHub/icons8-java-100.png" width="40" height="40" />
+  <img src="./GitHub/icons8-javascript-96.png" width="40" height="40" />
+  <img src="GitHub/icons8-logo-php-100.png" width="40" height="40" />
+  <img src="./GitHub/icons8-r-project-100.png" width="40" height="40" />
+  <img src="./GitHub/icons8-github-100.png" width="40" height="40" />
+  <img src="./GitHub/icons8-docker-64.png" width="40" height="40" />
+  <img src="./GitHub/icons8-html-5-100.png" width="40" height="40" /> 
+  <img src="./GitHub/icons8-css3-100.png" width="40" height="40" />
+  <img src="./GitHub/icons8-database-100.png" width="40" height="40" />
 </div>
 
 <div align="center">
