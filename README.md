@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&size=32&pause=1000&color=0DAE96&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BOl%C3%A1+eu+sou+o+Andr%C3%A9!)](https://git.io/typing-svg)
+<h1 align="center">Bem vindo ao meu perfil do GitHub</h1>
 
+<h2 align="center">Dizem que eu sou...</h2>
 
 <div align="center">
   <img src="./GitHub/icons8-c-100.png" width="40" height="40" />
@@ -17,5 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Dados;Especialista+em+C%23+e+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=71ad81&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Dados;Especialista+em+C%23+e+Python" alt="Typing SVG" />
 </div>
+
+E-mail para contato: `andrealmeida2591@outlook.com`
