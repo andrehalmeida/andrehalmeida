@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=71ad81&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Dados;Especialista+em+C%23+e+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=a3cfb7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Dados;Especialista+em+C%23+e+Python" alt="Typing SVG" />
 </div>
 
 <div align="center">
